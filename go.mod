@@ -1,0 +1,19 @@
+module github.com/presbyter/dmhycolly
+
+require (
+	github.com/PuerkitoBio/goquery v1.4.0
+	github.com/andybalholm/cascadia v1.0.0
+	github.com/antchfx/htmlquery v0.0.0-20171205025447-9f7717ac9bac
+	github.com/antchfx/xmlquery v0.0.0-20180509022505-3b6128f0092a
+	github.com/antchfx/xpath v0.0.0-20180509150720-7148e5d6bb84
+	github.com/gobwas/glob v0.2.3
+	github.com/gocolly/colly v0.0.0-20180512105141-d2a2da4d11a1
+	github.com/golang/protobuf v1.1.0
+	github.com/kennygrant/sanitize v1.2.3
+	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca
+	github.com/temoto/robotstxt v0.0.0-20170603013557-9e4646fa7053
+	golang.org/x/net v0.0.0-20180511174649-2491c5de3490
+	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
+	golang.org/x/text v0.3.0
+	google.golang.org/appengine v1.0.0
+)
